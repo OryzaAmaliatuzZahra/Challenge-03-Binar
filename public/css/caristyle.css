@@ -352,5 +352,4 @@ input[type="time"]:valid::before {
     transform    : translateX(-100%);
   }
 }
-
-
+}
